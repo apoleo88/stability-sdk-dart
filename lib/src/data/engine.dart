@@ -10,8 +10,8 @@ enum EngineType {
   diffusion_512_v2_1('stable-diffusion-512-v2-1'),
   diffusion_768_v2_1('stable-diffusion-768-v2-1'),
   inpainting_v1_0('stable-inpainting-v1-0'),
-  inpainting_v2_0('stable-inpainting-512-v2-0');
-  diffusion_xl_1024_v0_9('stable-diffusion-xl-1024-v0-9');
+  inpainting_v2_0('stable-inpainting-512-v2-0'),
+  diffusion_xl_1024_v0_9('stable-diffusion-xl-1024-v0-9'),
   diffusion_xl_1024_v1_0('stable-diffusion-xl-1024-v1-0');
 
   
